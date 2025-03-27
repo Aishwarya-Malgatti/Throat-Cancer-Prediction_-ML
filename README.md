@@ -6,8 +6,8 @@ This project focuses on developing a machine learning model for predicting throa
 ## Project Visualization
 
 ![Throat Cancer Prediction 1](https://github.com/Aishwarya-Malgatti/Throat-Cancer-Prediction_-ML/blob/f027b0d5dc364ed1f1ba577d6261ce696fd8edb1/WhatsApp%20Image%202025-03-27%20at%2015.27.24_fadd1f42.jpg)
-![Throat Cancer Prediction 2](WhatsApp_Image_2025-03-27_at_15.27.25_8431a84b.jpg)
-![Throat Cancer Prediction 3](WhatsApp_Image_2025-03-27_at_15.27.26_e599d4a3.jpg)
+![Throat Cancer Prediction 2](https://github.com/Aishwarya-Malgatti/Throat-Cancer-Prediction_-ML/blob/a67e646a770fe5db482495bb986ef2f8b561667e/WhatsApp%20Image%202025-03-27%20at%2015.27.25_8431a84b.jpg)
+![Throat Cancer Prediction 3](https://github.com/Aishwarya-Malgatti/Throat-Cancer-Prediction_-ML/blob/a67e646a770fe5db482495bb986ef2f8b561667e/WhatsApp%20Image%202025-03-27%20at%2015.27.26_e599d4a3.jpg)
 
 ![Throat Cancer Prediction](https://github.com/Aishwarya-Malgatti/Throat-Cancer-Prediction_-ML/blob/f027b0d5dc364ed1f1ba577d6261ce696fd8edb1/WhatsApp%20Image%202025-03-27%20at%2015.27.24_fadd1f42.jpg)
 

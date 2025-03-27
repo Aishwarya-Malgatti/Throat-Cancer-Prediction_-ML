@@ -12,8 +12,11 @@ This repository contains the implementation of a predictive model for throat can
 - **Report**: A detailed analysis and findings from the project
 - **Results**: Performance evaluation and accuracy metrics
 
-## Flowcharts and System Architectures
-- ![Throat Cancer Prediction](images/WhatsApp_Image_2025-03-27_at_15.27.24_fadd1f42.jpg)
+## Project Visualization
+
+![Throat Cancer Prediction 1](images/WhatsApp_Image_2025-03-27_at_15.27.24_fadd1f42.jpg)
+![Throat Cancer Prediction 2](images/WhatsApp_Image_2025-03-27_at_15.27.25_8431a84b.jpg)
+![Throat Cancer Prediction 3](images/WhatsApp_Image_2025-03-27_at_15.27.26_e599d4a3.jpg)
 
 
 ## How to Use

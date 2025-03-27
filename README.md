@@ -3,6 +3,14 @@
 ## Project Description
 This project focuses on developing a machine learning model for predicting throat cancer based on medical and clinical data. It utilizes various machine learning techniques to analyze patient data and provide accurate predictions.
 
+## Project Visualization
+
+![Throat Cancer Prediction 1](WhatsApp_Image_2025-03-27_at_15.27.24_fadd1f42.jpg)
+![Throat Cancer Prediction 2](WhatsApp_Image_2025-03-27_at_15.27.25_8431a84b.jpg)
+![Throat Cancer Prediction 3](WhatsApp_Image_2025-03-27_at_15.27.26_e599d4a3.jpg)
+
+![Throat Cancer Prediction](WhatsApp_Image_2025-03-27_at_15.27.24_fadd1f42.jpg)
+
 ## Overview
 This repository contains the implementation of a predictive model for throat cancer diagnosis. It explores different machine learning algorithms and evaluates their performance in identifying cancerous cases.
 
@@ -11,13 +19,6 @@ This repository contains the implementation of a predictive model for throat can
 - **Model Code**: Machine learning scripts and Jupyter notebooks
 - **Report**: A detailed analysis and findings from the project
 - **Results**: Performance evaluation and accuracy metrics
-
-## Project Visualization
-
-![Throat Cancer Prediction 1](WhatsApp_Image_2025-03-27_at_15.27.24_fadd1f42.jpg)
-![Throat Cancer Prediction 2](WhatsApp_Image_2025-03-27_at_15.27.25_8431a84b.jpg)
-![Throat Cancer Prediction 3](WhatsApp_Image_2025-03-27_at_15.27.26_e599d4a3.jpg)
-
 
 ## How to Use
 1. Clone this repository:
